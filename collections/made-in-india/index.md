@@ -1,5 +1,6 @@
 ---
 items:
+ - LambdaTest/test-at-scale
  - TheAlgorithms
  - odpf
  - hoppscotch/hoppscotch
